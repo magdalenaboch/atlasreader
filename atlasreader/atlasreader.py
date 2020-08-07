@@ -28,6 +28,7 @@ _ATLASES = [
     'neuromorphometrics',
     'talairach_ba',
     'talairach_gyrus',
+    'czeibert'
 ]
 
 _DEFAULT = [
